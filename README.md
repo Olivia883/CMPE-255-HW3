@@ -24,25 +24,25 @@ CMPE-255-HW3/
     └── CMPE255_HW3_Part6_PyCaret_MLOps.ipynb
 
 Part 1 - K-Means and Variations
-Executed Colab Notebook: CMPE255 HW3 Part 1 - K-Means
+Executed Colab: CMPE255 HW3 Part 1 - K-Means
 **Video** [INSERT PART 1 YOUTUBE LINK HERE]
 
 Part 2 - AutoGluon Landscape of Capabilities
-Executed Colab Notebook: CMPE255 HW3 Part 2 - AutoGluon Landscape
+Executed Colab: CMPE255 HW3 Part 2 - AutoGluon Landscape
 **Video** [INSERT PART 2 YOUTUBE LINK HERE]
 
 Part 3 - AutoGluon End-to-End Machine Learning
-Executed Colab Notebook: CMPE255 HW3 Part 3 - AutoGluon End-to-End
+Executed Colab: CMPE255 HW3 Part 3 - AutoGluon End-to-End
 **Video** [INSERT PART 3 YOUTUBE LINK HERE]
 
 Part 4 - NVIDIA RAPIDS vs CPU
-Executed Colab Notebook: CMPE255 HW3 Part 4 - NVIDIA RAPIDS vs CPU
+Executed Colab: CMPE255 HW3 Part 4 - NVIDIA RAPIDS vs CPU
 **Video** [INSERT PART 4 YOUTUBE LINK HERE]
 
 Part 5 - PyCaret Capabilities Landscape
-Executed Colab Notebook: CMPE255 HW3 Part 5 - PyCaret Landscape
+Executed Colab: CMPE255 HW3 Part 5 - PyCaret Landscape
 **Video** [INSERT PART 5 YOUTUBE LINK HERE]
 
 Part 6 - PyCaret Capabilities Landscape
-Executed Colab Notebook: CMPE255 HW3 Part 6 - PyCaret MLOps
+Executed Colab: CMPE255 HW3 Part 6 - PyCaret MLOps
 **Video** [INSERT PART 6 YOUTUBE LINK HERE]
