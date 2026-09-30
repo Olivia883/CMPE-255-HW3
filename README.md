@@ -32,7 +32,7 @@ Executed Colab: https://colab.research.google.com/drive/1717GS8B88yUnyU0uhYQa4lt
 **Video** [INSERT PART 2 YOUTUBE LINK HERE]
 
 Part 3 - AutoGluon End-to-End Machine Learning
-Executed Colab: CMPE255 HW3 Part 3 - AutoGluon End-to-End
+Executed Colab: https://colab.research.google.com/drive/10zaPK9XHBovlXMuGoimkpr_5FlX11fF_#scrollTo=0AsY3Q_69daK
 **Video** [INSERT PART 3 YOUTUBE LINK HERE]
 
 Part 4 - NVIDIA RAPIDS vs CPU
