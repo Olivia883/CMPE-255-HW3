@@ -24,11 +24,11 @@ CMPE-255-HW3/
     └── CMPE255_HW3_Part6_PyCaret_MLOps.ipynb
 
 Part 1 - K-Means and Variations
-Executed Colab: [https://colab.research.google.com/drive/1717GS8B88yUnyU0uhYQa4ltdd7RAhFQE]
+Executed Colab: 
 **Video** [INSERT PART 1 YOUTUBE LINK HERE]
 
 Part 2 - AutoGluon Landscape of Capabilities
-Executed Colab: CMPE255 HW3 Part 2 - AutoGluon Landscape
+Executed Colab: [https://colab.research.google.com/drive/1717GS8B88yUnyU0uhYQa4ltdd7RAhFQE]
 **Video** [INSERT PART 2 YOUTUBE LINK HERE]
 
 Part 3 - AutoGluon End-to-End Machine Learning
