@@ -25,7 +25,7 @@ CMPE-255-HW3/
 
 Part 1 - K-Means and Variations
 Executed Colab: https://colab.research.google.com/drive/1717GS8B88yUnyU0uhYQa4ltdd7RAhFQE#scrollTo=vqU71zRTBTY8
-**Video** [INSERT PART 3 YOUTUBE LINK HERE]
+**Video** https://youtu.be/u1Mv8Lr8zzQ
 
 Part 2 - AutoGluon Landscape of Capabilities
 Executed Colab: https://colab.research.google.com/drive/1717GS8B88yUnyU0uhYQa4ltdd7RAhFQE
