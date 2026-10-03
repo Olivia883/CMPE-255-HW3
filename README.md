@@ -25,15 +25,15 @@ CMPE-255-HW3/
 
 Part 1 - K-Means and Variations
 Executed Colab: https://colab.research.google.com/drive/1717GS8B88yUnyU0uhYQa4ltdd7RAhFQE#scrollTo=vqU71zRTBTY8
-**Video** [INSERT PART 1 YOUTUBE LINK HERE]
+**Video** [INSERT PART 3 YOUTUBE LINK HERE]
 
 Part 2 - AutoGluon Landscape of Capabilities
 Executed Colab: https://colab.research.google.com/drive/1717GS8B88yUnyU0uhYQa4ltdd7RAhFQE
-**Video** [INSERT PART 2 YOUTUBE LINK HERE]
+**Video** https://youtu.be/dV2NO16MWbY
 
 Part 3 - AutoGluon End-to-End Machine Learning
 Executed Colab: https://colab.research.google.com/drive/10zaPK9XHBovlXMuGoimkpr_5FlX11fF_#scrollTo=0AsY3Q_69daK
-**Video** [INSERT PART 3 YOUTUBE LINK HERE]
+**Video** https://youtu.be/mWIDvuCNa9Q
 
 Part 4 - NVIDIA RAPIDS vs CPU
 Executed Colab: https://colab.research.google.com/drive/1XN2YfkS4KXn4duiqHnNzjRbfn5pXjKWM#scrollTo=xv9GFoHoR8_A
