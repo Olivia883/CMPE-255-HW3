@@ -1,6 +1,5 @@
 # CMPE-255-HW3
 
-Repository Structure
 CMPE-255-HW3/
 │
 ├── README.md
@@ -23,7 +22,7 @@ CMPE-255-HW3/
 └── Part-6-PyCaret-MLOps/
     └── CMPE255_HW3_Part6_PyCaret_MLOps.ipynb
 
-Part 1 - K-Means and Variations
+Part 1 — K-Means and Variation
 Executed Colab: https://colab.research.google.com/drive/1717GS8B88yUnyU0uhYQa4ltdd7RAhFQE#scrollTo=vqU71zRTBTY8
 Video https://youtu.be/u1Mv8Lr8zzQ
 
