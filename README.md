@@ -37,7 +37,7 @@ Executed Colab: https://colab.research.google.com/drive/10zaPK9XHBovlXMuGoimkpr_
 
 Part 4 - NVIDIA RAPIDS vs CPU
 Executed Colab: https://colab.research.google.com/drive/1XN2YfkS4KXn4duiqHnNzjRbfn5pXjKWM#scrollTo=xv9GFoHoR8_A
-**Video** [INSERT PART 4 YOUTUBE LINK HERE]
+**Video** https://youtu.be/yc2slRrHWto
 
 Part 5 - PyCaret Capabilities Landscape
 Executed Colab: CMPE255 HW3 Part 5 - PyCaret Landscape
