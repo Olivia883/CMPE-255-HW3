@@ -40,7 +40,7 @@ Executed Colab: https://colab.research.google.com/drive/1XN2YfkS4KXn4duiqHnNzjRb
 **Video** https://youtu.be/yc2slRrHWto
 
 Part 5 - PyCaret Capabilities Landscape
-Executed Colab: CMPE255 HW3 Part 5 - PyCaret Landscape
+Executed Colab: https://colab.research.google.com/drive/1c9JUkHr6-F3YccSUbA6239Pw35W31qDU
 **Video** [INSERT PART 5 YOUTUBE LINK HERE]
 
 Part 6 - PyCaret Capabilities Landscape
