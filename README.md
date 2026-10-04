@@ -43,5 +43,5 @@ Executed Colab: https://colab.research.google.com/drive/1c9JUkHr6-F3YccSUbA6239P
 Video: https://youtu.be/ImNCC4vbDuY
 
 Part 6 - PyCaret Capabilities Landscape
-Executed Colab: CMPE255 HW3 Part 6 - PyCaret MLOps
+Executed Colab: https://colab.research.google.com/drive/1vj8FEEabok4TOkwjmuShuwJmJBJnYm7J
 **Video** [INSERT PART 6 YOUTUBE LINK HERE]
